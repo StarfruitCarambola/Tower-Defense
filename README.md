@@ -1,6 +1,6 @@
 # Tower-Defense
 By Raymond Kwok
-First time learning Unity and C++ with a friend of mine. 
+First time learning Unity and C# with a friend of mine. 
 
 https://www.youtube.com/watch?v=beuoNuK2tbk&list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0
 
